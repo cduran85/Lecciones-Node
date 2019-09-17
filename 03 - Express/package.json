@@ -1,0 +1,15 @@
+{
+  "name": "examplenpm",
+  "version": "1.0.0",
+  "description": "This is a npm example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Author",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "httpdispatcher": "^2.1.0"
+  }
+}
